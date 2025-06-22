@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="i-6CcFaS4k6X2xJxApUrdg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="517052fb-f047-4228-8a28-6bd5ef1c5d56" CvElementArea="330, 577, 258, 63" CvTextArea="415, 597, 116, 20" CvTextArgument="Work Items" CvType="Button" DesignTimeRectangle="334, 580, 250, 57" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='                          Work Items' parentid='dashmenu' tag='BUTTON' /&gt;" Guid="dfc46009-0dc4-48c2-8339-c8a39b2d89c6" ScopeSelectorArgument="&lt;html app='thorium.exe' title='ACME System 1 - Dashboard' useBrowserExtension='1' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="e93ef0ece9e0d263536e9b576e53e3d4.png" xmlns="">08d2z0BuTnESIZImxPK5mGg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
